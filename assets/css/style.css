@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+    max-width: 800px;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.experiencia {
+    margin-bottom: 20px;
+}
+
+input[type="color"] {
+    padding: 5px;
+    width: 100px;
+}
